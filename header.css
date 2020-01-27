@@ -1,0 +1,20 @@
+ul {
+    list-style-image: none;
+    font: 32px medium; 
+    list-style: none;
+    background-color: #3F4148;
+}
+li {
+    float: left;
+    padding: 16px 30px 16px 40px;
+}
+
+li a {
+    color: #CFCCCD;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: #4CA996
+}
